@@ -30,7 +30,7 @@ var scoreNum = 0
 
 var begin = 0
 var angle = arc4random_uniform(6)
-var start: CGVector = CGVector(dx: 20200, dy: 1500)
+var start: CGVector = CGVector(dx: 20, dy: 1500)
 var start2: CGVector = CGVector(dx: 1500, dy: 1500)
 var start3: CGVector = CGVector(dx: 1500, dy: 1200)
 var start4: CGVector = CGVector(dx: -2000, dy: 1500)
